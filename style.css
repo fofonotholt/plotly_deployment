@@ -1,0 +1,9 @@
+.jumbotron {
+background-image: url("Resources/image-3.png");
+background-size: 100% 100%;
+text-align: center;
+}
+body {
+    background-color: lightblue;
+    color: blue;
+}
